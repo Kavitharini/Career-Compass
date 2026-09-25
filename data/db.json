@@ -1,0 +1,50 @@
+{
+  "users": {
+    "user_demo_101": {
+      "id": "user_demo_101",
+      "name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "password": "password123",
+      "education": "Bachelor of Science",
+      "degree": "Computer Science & Engineering",
+      "specialization": "Artificial Intelligence & Software Systems",
+      "graduationYear": "2025",
+      "experienceLevel": "Fresher",
+      "skills": [
+        "Python",
+        "SQL",
+        "JavaScript",
+        "React",
+        "Git",
+        "Data Analysis",
+        "Problem Solving",
+        "REST APIs"
+      ],
+      "interests": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Software Development",
+        "Machine Learning",
+        "Cloud Computing"
+      ],
+      "careerPreferences": {
+        "preferredIndustry": "Technology & SaaS",
+        "preferredWorkType": "Full-time",
+        "preferredLocation": "San Francisco, CA or Remote",
+        "remotePreference": "Hybrid",
+        "preferredJobLevel": "Entry Level"
+      },
+      "targetRole": "Data Engineer",
+      "completedRoadmapItems": [
+        "foundations-sql-window-func",
+        "foundations-python-generators"
+      ],
+      "createdAt": "2026-09-24T10:48:17.761Z",
+      "updatedAt": "2026-09-24T10:48:17.762Z"
+    }
+  },
+  "sessions": {
+    "demo-token-alex": "user_demo_101",
+    "demo-token-1790246898358": "user_demo_101"
+  }
+}
